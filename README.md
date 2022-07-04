@@ -1,4 +1,4 @@
-# E-commerce-Web-Application-19001700
+# E-commerce-Web-Application
 
 Step 1:
 Open the SQL query document in SQL Server then connect to your local machines server and run the SQL code in segmented parts from top to bottom. (It is important that all tables are created, or the program will not function.)
